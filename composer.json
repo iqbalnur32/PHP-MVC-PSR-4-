@@ -1,0 +1,15 @@
+{
+	"name": "iqbal/php_psr4",
+	"authors": [
+		{
+			"name": "Iqbal Nur W",
+			"email": "iqbalnur306@gmail.com"
+		}
+	],
+	"require": {},
+	"autoload": {    
+		"psr-4": {
+			"App\\": "src/"  
+		}
+	}
+}
